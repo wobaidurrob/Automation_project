@@ -5,6 +5,7 @@ public class AutomationClass {
 		// TODO Auto-generated method stub
 		System.out.println("github initialization");
 		System.out.println("update the class");
+		System.out.println("git commit -a  ");
 	}
 
 }
