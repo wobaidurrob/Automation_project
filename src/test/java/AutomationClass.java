@@ -6,6 +6,7 @@ public class AutomationClass {
 		System.out.println("github initialization");
 		System.out.println("update the class");
 		System.out.println("git commit -a  ");
+		
 	}
 
 }
