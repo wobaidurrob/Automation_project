@@ -7,6 +7,9 @@ public class AutomationClass {
 		System.out.println("update the class");
 		System.out.println("git commit -a  ");
 		
+		System.out.println("a branch is created");
+	
+		
 	}
 
 }
